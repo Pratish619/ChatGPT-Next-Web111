@@ -6,6 +6,7 @@
 English / [简体中文](./README_CN.md) / [日本語](./README_JA.md)
 
 One-Click to get well-designed cross-platform ChatGPT web UI.
+Maintained by Pratish
 
 一键免费部署你的跨平台私人 ChatGPT 应用。
 
